@@ -1,0 +1,8 @@
+.footer{
+    position:absolute;
+    width: 98%;
+    bottom:0;
+    padding: 0.5em;
+    text-align:center;
+    font-weight: 500;
+  }

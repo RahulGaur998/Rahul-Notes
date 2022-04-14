@@ -1,0 +1,11 @@
+#head{
+    display: flex;
+    height: 3em;
+    padding: 0.5em 1em ;
+    background-color: #ffc93c;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+    padding: 0 0.5em;
+}

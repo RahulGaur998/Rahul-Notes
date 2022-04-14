@@ -1,0 +1,27 @@
+.cards{
+    display: inline-block;
+    margin: 1em;
+}
+
+.title{
+    font-weight: 800 ;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1em 1em;
+    width: 10em;
+    border: 1px solid goldenrod;
+    background-color: #ffda7d;
+}
+.btn{
+    position: relative;
+    margin-top: 1em ;
+    border-radius: 50%;
+    height: 2em;
+    width: 2em;
+    background-color: #ffc93c;
+}
